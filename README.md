@@ -21,7 +21,7 @@ The repository includes the application source code, NetBeans project configurat
 
 |                  Standard                  |                  History                    |
 | :----------------------------------------: | :-----------------------------------------: |
-| ![Standard](src/docs/gameplay.jpeg)        | ![History](src/docs/history.jpeg)           |
+| ![Standard](src/docs/standard.jpeg)        | ![History](src/docs/history.jpeg)           |
 |                  Errors                    |                  Print                      |
 | ![Errors](src/docs/errors.jpeg)            | ![Print](src/docs/print.jpeg)               |
 
