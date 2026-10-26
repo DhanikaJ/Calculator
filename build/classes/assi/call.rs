@@ -1,2 +1,0 @@
-assi.Cal
-assi.CloseWindow
